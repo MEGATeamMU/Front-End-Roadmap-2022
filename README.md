@@ -92,12 +92,11 @@ React is an open-source **JavaScript library** for building user interfaces or U
 -   [React Full Course - YouTube](https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 -   [React Complete Guide - Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
 
-#### Angular 2+
+#### Angular 9+
 
 Angular is a **TypeScript-based** open-source web application framework led by the Angular Team at Google and by a community of individuals and corporations. Angular is a complete rewrite from the same team that built AngularJS.
 
--   [Angular Full Course - YouTube](https://youtu.be/WWQZCDegWHg?list=PL6n9fhu94yhWqGD8BuKuX-VTKqlNBj-m6)
--   [Angular Course - Udemy](https://www.udemy.com/course/the-complete-guide-to-angular-2/)
+-   [Angular Full Course - YouTube](https://youtube.com/playlist?list=PL1ano0qwNuBwA90YwA-5d8g2wbOYHkl5h)
 
 ---
 
