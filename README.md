@@ -12,7 +12,7 @@ This road map is all about reaching the target of our circle which cares about m
 -   [Frameworks](#frameworks)
     -   [React JS](#react-js)
     -   [Vue JS](#vue-js)
-    -   [Angular 2+](#angular-2)
+    -   [Angular 9+](#angular-9)
 -   [Channels](#channels)
 -   [Useful Websites](#useful-websites)
 
