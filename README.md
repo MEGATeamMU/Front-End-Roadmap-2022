@@ -91,7 +91,7 @@ React is an open-source **JavaScript library** for building user interfaces or U
 -   [React Crash Course - YouTube](https://youtu.be/Ke90Tje7VS0)
 -   [React Full Course - YouTube](https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 -   [React Complete Guide - Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
--   [React Complete Course In Arabic - Youtube](https://www.youtube.com/watch?v=p8nOfP2fw24&list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
+-   [React Complete Course In Arabic (recommended)- Youtube](https://www.youtube.com/watch?v=p8nOfP2fw24&list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
 
 #### Angular 9+
 
