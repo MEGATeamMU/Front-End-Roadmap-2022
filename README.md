@@ -27,7 +27,7 @@ This road map is all about reaching the target of our circle which cares about m
 -   [HTML5 Semantic - YouTube](https://youtu.be/ZC5y7XDdG80)
 
 ###Arabic
--[Html Full Course  -YouTube](https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
+-[Html Full Course  -YouTube] (https://www.youtube.com/watch?v=6QAELgirvjs&list=PLDoPjvoNmBAw_t_XWUFbBX-c9MafPk9ji)
 ---
 
 ### CSS
@@ -91,6 +91,7 @@ React is an open-source **JavaScript library** for building user interfaces or U
 -   [React Crash Course - YouTube](https://youtu.be/Ke90Tje7VS0)
 -   [React Full Course - YouTube](https://youtu.be/QFaFIcGhPoM?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
 -   [React Complete Guide - Udemy](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
+-   [React Complete Course In Arabic](https://www.youtube.com/watch?v=p8nOfP2fw24&list=PLQtNtS-WfRa9LbmD8ON7rWhn-AtKTGdkn)
 
 #### Angular 9+
 
